@@ -1,3 +1,6 @@
+Kaggle link : https://www.kaggle.com/ozgurozgur/week23
+
+
 # Class4-Machine_Learning-Week23
 
 
